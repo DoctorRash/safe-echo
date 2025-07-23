@@ -1,0 +1,7 @@
+project_id = "hsitnijeoayzkhvyjcfk"
+
+[functions.ai-chat-assistant]
+verify_jwt = false
+
+[functions.process-report]
+verify_jwt = false
